@@ -1,0 +1,25 @@
+{
+"url":"http://www.way2automation.com/angularjs-protractor/banking/#/manager/openAccount",
+"userData":{
+"customerName": "Harry Potter",
+"Currency1":"Dollar"
+
+
+},
+
+"userData1":{
+"customerName": "Harry Potter",
+"Currency1":"Pound"
+
+
+},
+"userData2":{
+"customerName": "Harry Potter",
+"Currency1":"Rupee"
+
+
+}
+
+
+
+}
